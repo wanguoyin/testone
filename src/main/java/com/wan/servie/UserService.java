@@ -4,4 +4,6 @@ public interface UserService {
     int testone();
     int testtwo();
     int testthree();
+    int one();
+
 }
